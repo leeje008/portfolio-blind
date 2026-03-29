@@ -60,6 +60,7 @@ test() {
     --disable-external \
     --check-html \
     --allow_hash_href \
+    --url-swap "^$_baseurl:" \
     "$SITE_DIR"
 }
 
