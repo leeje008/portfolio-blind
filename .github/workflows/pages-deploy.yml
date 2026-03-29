@@ -8,6 +8,10 @@ on:
       - README.md
       - LICENSE
 
+permissions:
+  contents: write
+  pages: write
+
 jobs:
   continuous-delivery:
 
