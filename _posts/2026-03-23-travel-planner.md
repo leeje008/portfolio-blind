@@ -10,7 +10,7 @@ math: false
 
 여행 플래너 - AI 기반 여행 일정 자동 생성 도구
 
-> 소스 코드는 요청 시 제공 가능합니다.
+> GitHub: [leeje008/travel-planner](https://github.com/leeje008/travel-planner)
 
 ---
 

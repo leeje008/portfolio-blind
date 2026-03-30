@@ -10,7 +10,7 @@ math: false
 
 주식 포트폴리오 에이전트 - Streamlit + Claude LLM 기반 투자 분석 및 최적화 도구
 
-> 소스 코드는 요청 시 제공 가능합니다.
+> GitHub: [leeje008/stock-agent](https://github.com/leeje008/stock-agent)
 
 ---
 

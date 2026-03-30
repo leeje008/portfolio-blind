@@ -10,7 +10,7 @@ math: false
 
 보험 상품 QA 에이전트 - LLM 기반 보험 질의응답 시스템
 
-> 소스 코드는 요청 시 제공 가능합니다.
+> GitHub: [leeje008/insurance-qa-agent](https://github.com/leeje008/insurance-qa-agent)
 
 ---
 
